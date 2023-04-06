@@ -1,6 +1,2 @@
-# SurferBot-Docs
+# project rotasi 1 juta juta
 Growtopia Bot Application
-
-HTTP API : https://documenter.getpostman.com/view/15842770/2s93JqR4qC#intro
-
-Discord Link : https://surferwallet.net/discord
